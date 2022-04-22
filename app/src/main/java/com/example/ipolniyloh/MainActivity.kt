@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val loh1 = findViewById<Button>(R.id.button2)
         val loh2 = findViewById<Button>(R.id.button3)
         var polniy = 0
-        var i = 11111*4343343
+        val i = 909886777
         loh.setOnClickListener {
             polniy++
             l.text = polniy.toString()
